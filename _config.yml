@@ -21,7 +21,7 @@ repository: "TingfengLuo/TingfengLuo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "avatar2.jpg"
+  avatar: "avatar1.jpg"
   name: "Tingfeng Luo (Leo)"
   pronouns: # example: "she/her"
   bio: "Undergrad at UIUC CS"
