@@ -13,7 +13,7 @@ I'm a senior at UIUC majoring in computer science, working at [Molecule Maker La
 In the past, I have interned at Pfizer working on post-market antibiotics synthesis optimization. Before that, I worked on preclinical development of immunotherapy for colorectal cancer at Western Michigan University.
 
 ### Research Interests: 
-I am passionate about **AI for scientific discovery**, with a particular focus on **drug discovery**. I'm also interested in bridging **communication gaps** between knowledge intensive domains. 
+I am generally interested in **AI for scientific discovery**, with a particular focus on **drug discovery** and **healthcare**. I'm also interested in bridging **communication gaps** between knowledge intensive domains. 
 
 Some topics I'm currently following: 
   * Fine-grained information retrieval for scientific literature 
