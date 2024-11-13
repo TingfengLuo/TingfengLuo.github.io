@@ -16,7 +16,7 @@ In the past, I have interned at Pfizer working on post-market antibiotics synthe
 
 Some topics I'm currently following: 
   * Fine-grained information retrieval for scientific literature 
-  * Language Augmentation in cross-domain communication
+  * Language augmentation in cross-domain communication
   * Generative model for drug candidates conditioned on ADMET and synthetical accessibility
 
 
