@@ -14,9 +14,9 @@ I am generally interested in **AI for scientific discovery**, with a particular 
 
 In the past, I have interned at Pfizer working on post-market antibiotics synthesis optimization. Before that, I worked on preclinical development of immunotherapy for colorectal cancer at Western Michigan University.
 
-Some topics I'm currently following: 
+Some topics I'm currently working on: 
   * Fine-grained information retrieval for scientific literature 
   * Language augmentation in cross-domain communication
-  * Generative model for drug candidates conditioned on ADMET and synthetical accessibility
+  * Intelligent reading system to make clinical documents informative to non-professionals
 
 
